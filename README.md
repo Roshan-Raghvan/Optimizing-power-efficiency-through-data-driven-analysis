@@ -20,7 +20,5 @@ Electra.AI is a simple dashboard developed using Dash and Plotly. It helps the c
 
 <img src ="https://user-images.githubusercontent.com/24243687/127759184-3fb9e6d2-ce0f-485d-adc2-0f4fa064879b.PNG" width="800" height="400">
 
-## Automated Emails with Reports:
-     
-<img src= "https://user-images.githubusercontent.com/24243687/127759244-e9aaeb92-c9c7-4945-8fe8-640632f966f5.jpg" width="250" height="500"> <img src="https://user-images.githubusercontent.com/24243687/127759245-ce21f0ff-851c-42ab-ae4f-1a0e6b27e94a.jpg" width="250" height="500">
+
 
